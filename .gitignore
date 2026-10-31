@@ -1,0 +1,27 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+.m2/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test Reports
+test-output/
+*.log
+
+# IDE specific files
+.project
+.classpath
+.settings/

@@ -1,0 +1,67 @@
+COPY-PASTE THIS TEMPLATE AND FILL IN YOUR FINDINGS
+
+==================================================
+FLIGHT SEARCH SELECTORS
+==================================================
+
+One Way Selector:
+ID: 
+data-cy: 
+class: 
+Other: 
+Recommended Selector: 
+
+Departure City Input:
+ID: 
+placeholder: 
+class: 
+Other: 
+Recommended Selector: 
+
+Destination City Input:
+ID: 
+placeholder: 
+class: 
+Other: 
+Recommended Selector: 
+
+Search Button:
+ID: 
+text: 
+class: 
+Other: 
+Recommended Selector: 
+
+==================================================
+HOTEL SEARCH SELECTORS
+==================================================
+
+Hotel Location Input:
+ID: 
+placeholder: 
+class: 
+Other: 
+Recommended Selector: 
+
+Check-in Date Input:
+ID: 
+placeholder: 
+class: 
+Other: 
+Recommended Selector: 
+
+Check-out Date Input:
+ID: 
+placeholder: 
+class: 
+Other: 
+Recommended Selector: 
+
+Hotel Search Button:
+ID: 
+text: 
+class: 
+Other: 
+Recommended Selector: 
+
+==================================================

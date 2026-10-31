@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="makemytrip-test-suite">
+    <test name="smoke-tests">
+        <classes>
+            <class name="com.makemytrip.tests.MakeMyTripHomePageTest" />
+            <class name="com.makemytrip.tests.FlightSearchTest" />
+            <class name="com.makemytrip.tests.HotelSearchTest" />
+        </classes>
+    </test>
+</suite>
